@@ -1,0 +1,19 @@
+{
+  "name": "gmaps_store_coords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.33",
+    "nodemon": "^1.17.3"
+  }
+}
